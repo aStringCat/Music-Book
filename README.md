@@ -1,0 +1,1 @@
+a simple static project for learning
