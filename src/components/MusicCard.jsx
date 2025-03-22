@@ -69,7 +69,7 @@ const MusicCard = (props) => {
           </CoverImage>
           <Box sx={{ ml: 1.5, minWidth: 0 }}>
             <Typography noWrap>
-              <b>晴天</b>
+              <b>七里香</b>
             </Typography>
             <Typography noWrap letterSpacing={-0.25}>
               周杰伦
