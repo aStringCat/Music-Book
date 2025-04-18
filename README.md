@@ -1,1 +1,1 @@
-# music-book
+a simple static project for learning
